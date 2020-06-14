@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Slim's Food Blog
 
-I'm glad you are here. I plan to talk about ...
+ 2020 Restuarants
